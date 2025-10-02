@@ -41,7 +41,7 @@ Use an instruction dataset (like FineTome-100k).
 
 Standardize to a ShareGPT-style chat format.
 
-Apply a chat template to convert message dicts to a single training string.
+
 
 python
 def formatting_func(example):
